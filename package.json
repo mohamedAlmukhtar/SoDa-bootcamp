@@ -1,0 +1,22 @@
+{
+  "name": "soda-bootcamp",
+  "version": "1.0.0",
+  "description": "package",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedAlmukhtar/SoDa-bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedAlmukhtar/SoDa-bootcamp/issues"
+  },
+  "homepage": "https://github.com/mohamedAlmukhtar/SoDa-bootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
